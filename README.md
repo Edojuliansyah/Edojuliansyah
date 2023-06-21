@@ -1,0 +1,2 @@
+- Hallo Edo juliansyah, 
+- Ini adalah Repository pertamaku debut dari PC lokal
